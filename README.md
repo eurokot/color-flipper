@@ -1,7 +1,7 @@
 <a id='anchor'></a>
 # Color Flipper
 
-![Start screen](assets/img/start.png)
+![Start screen](assets/img/Start.png)
 ![Action gif](assets/img/action.gif)
 
 ### About Project
