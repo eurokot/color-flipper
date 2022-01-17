@@ -4,9 +4,7 @@ const container = document.querySelector('.container');
 const color = document.getElementById('color');
 const btn = document.querySelector('.btn');
 
-console.log(color);
-const random = (e) => {
-    event.preventDefault();
+const random = () => {
     const arr = [];
     let hexColor = '#';
     for (var i = 0; i < 6; i++) {
